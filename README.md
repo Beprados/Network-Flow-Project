@@ -1,2 +1,3 @@
 # Network-Flow-Project
-Codes aimed at computational graph optimization design. Implements storage reduction technique through minimum spanning trees.
+Codes aimed at computational graph optimization design. Implements storage reduction technique through minimum spanning trees, first introduced at the Kang, Lee, Chin-Liang Chang and Shi-Kuo Chang article. 
+In general, algorithms for constructing minimum spanning trees and locating their centroid are implemented. Data structures (namely, binary heap and disjoint set) are briefly explored in order to optimize the performance of the algorithms. Some experiments, all of a synthetic nature, are performed in order to shed light on aspects and methodologies not so clearly explored in the original article.
