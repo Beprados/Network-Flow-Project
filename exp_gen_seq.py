@@ -6,7 +6,7 @@ from tree_plot import *
 from str_reduc import *
 
 ###################################################################
-### Experimento númerico: armazenamento de sequências genéticas ### 
+### Experimento numérico: armazenamento de sequências genéticas ### 
 ###################################################################
 
 ## Geração do conjunto de pesos ##
