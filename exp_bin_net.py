@@ -7,7 +7,7 @@ from tree_plot import *
 from str_reduc import *
 
 ##################################################################
-### Experimento númerico: armazenamento de Rede Neural Binária ### 
+### Experimento numérico: armazenamento de Rede Neural Binária ### 
 ##################################################################
 
 
